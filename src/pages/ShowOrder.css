@@ -1,0 +1,20 @@
+#details{
+    float: left;
+    margin-top: 10px;
+    }
+
+#BackToNewOrder{
+     float: right;
+     margin-top: 10px;
+
+     }
+
+#showBackground{background-image: url("https://i.pinimg.com/originals/79/f2/02/79f202b2a76562b279f5002533b1ef4e.png");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    }
